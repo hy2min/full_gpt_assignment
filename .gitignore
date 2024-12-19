@@ -1,2 +1,6 @@
 venv
 .env
+.cache/
+.streamlit/
+pages
+Home.py
